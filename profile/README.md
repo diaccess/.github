@@ -1,14 +1,11 @@
 ## Hi there 👋
 
+**Selamat datang di Repositori Organisasi Kami!**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🚀 Pengantar Singkat - Kami adalah komunitas pembelajar yang antusias dalam mengeksplorasi bahasa pemrograman dan teknologi terbaru. Mari bersama-sama menjelajahi dunia coding!
+🛠️ Pedoman Kontribusi - Ingin bergabung? Cek panduan kontribusi kami untuk mengetahui cara terbaik berpartisipasi dalam pengembangan proyek ini. Setiap kontribusi dihargai!
+📚 Sumber Daya Berguna - Temukan dokumentasi, tutorial, dan referensi yang berguna di repositori kami. Jangan ragu untuk menjelajahi dan belajar bersama.
+☕ Fakta Menarik - Apakah tahu bahwa tim kami lebih kreatif setelah meminum kopi sebagai "bahan bakar" kreativitas? Bagikan juga cerita makanan favoritmu!
+🧠 Ingat, kekuatan [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) dapat memberikan tampilan yang menarik pada dokumentasi kami. Pelajari sintaksisnya dan berkontribusi dengan gaya!
 
 Happy coding! 🖥️
-
-
