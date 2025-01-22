@@ -1,4 +1,4 @@
-# Hello, World! 👋
+## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Welcome to **diaccess**, your go-to hub for innovative open-source projects. We’re passionate about creating accessible solutions for everyone. 
 
