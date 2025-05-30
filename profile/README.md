@@ -11,6 +11,3 @@ Welcome to **diaccess**, your go-to hub for innovative open-source projects. Weâ
 ### diaccess Public Repository Disclosure
 
 All content in these repositories, including code, is provided by **diaccess** under the associated open-source software license. **diaccess** is under no obligation to provide enhancements, updates, or support. The projects here are contributed as open-source efforts (not commercial products), and **diaccess** makes no claims regarding quality or security. Maintenance for these projects is community-driven.
-
-
-dfajfa 
